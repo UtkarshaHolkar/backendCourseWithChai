@@ -49,3 +49,33 @@ directory structure ----
 # middlewares 
 # utils --- utilities
 # More (depends)
+directory structure ----
+==================================================
+
+# db directory -- actual code jo db s connect hoga
+# models --- data rkhne k liye uska schema/ structure
+# controllers --- saari functionalities controllers m likhe jate h 
+# routes --- sari routes (links kaise hogi / kasie nhi hogi ) ye sb yaha define hota h
+# middlewares 
+# utils --- utilities
+# More (depends)
+directory structure ----
+==================================================
+
+# db directory -- actual code jo db s connect hoga
+# models --- data rkhne k liye uska schema/ structure
+# controllers --- saari functionalities controllers m likhe jate h 
+# routes --- sari routes (links kaise hogi / kasie nhi hogi ) ye sb yaha define hota h
+# middlewares 
+# utils --- utilities
+# More (depends)
+directory structure ----
+==================================================
+
+# db directory -- actual code jo db s connect hoga
+# models --- data rkhne k liye uska schema/ structure
+# controllers --- saari functionalities controllers m likhe jate h 
+# routes --- sari routes (links kaise hogi / kasie nhi hogi ) ye sb yaha define hota h
+# middlewares 
+# utils --- utilities
+# More (depends)
